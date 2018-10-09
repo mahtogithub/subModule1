@@ -10,5 +10,6 @@ public class SubModule1Application {
 		SpringApplication.run(SubModule1Application.class, args);
 		System.out.println("Test submodule code change1..!!");
 		System.out.println("Test submodule code change2..!!");
+		System.out.println("Test submodule code change3..!!");
 	}
 }
